@@ -24,4 +24,4 @@
 [Стим](https://steamcommunity.com/id/Server_YouTube)  
 
 ***
-###### <center> Да кто такой этот ваш серверок? </center> ######
+###### <center> Да кто такой этот ваш серверок[?](https://server-ok.github.io/secret/) </center> ######
