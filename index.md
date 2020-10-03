@@ -5,7 +5,7 @@
 Страница принадлежит СерверКу (ServerOK) и была запущена на GitHub Pages[.](https://server-ok.github.io/secret/) Спасибо им за это!
 ### Мои игры на данный момент.
 
-1. [Annoying Dog: RUN!](https://server-ok.github.io/AnnoyingDogRun/)  
+1. [Annoying Dog: RUN](https://server-ok.github.io/AnnoyingDogRun/)[!](https://server-ok.github.io/secret/)  
 2. [Undertale: Math Edition](https://server-ok.github.io/UnderMath/)  
 3. [Теннис! 2D](https://server-ok.github.io/Tennis2d/)  
 
