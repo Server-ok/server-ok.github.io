@@ -3,15 +3,13 @@
 ## Добро пожаловать на мою страницу, добрый люд!
 
 Страница принадлежит СерверКу (ServerOK) и была запущена на GitHub Pages. Спасибо им за это!
-### Мои игры на данный момент.[1]
+### Мои игры на данный момент.
 
-1.Annoying Dog: RUN!  
-2.[Undertale: Math Edition](https://server-ok.github.io/UnderMath/)  
-3.[Теннис! 2D](https://server-ok.github.io/Tennis2d/)  
+1. Annoying Dog: RUN!  
+2. [Undertale: Math Edition](https://server-ok.github.io/UnderMath/)  
+3. [Теннис! 2D](https://server-ok.github.io/Tennis2d/)  
 
 (Список будет дополняться)
-
-
 
 ### О себе.
 Меня зовут Лёша, живу я в селе около города Строителя - Терновка. Я программист, геймер, ютубер и просто хороший человек. 
