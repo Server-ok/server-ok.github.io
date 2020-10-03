@@ -24,7 +24,8 @@
 ### Контакты и ссылки
 
 [ВК](https://vk.com/serverok2008)  
-
 [Ютуб](https://www.youtube.com/channel/UCAKbapy2TOjI9CgEI_5U9Pw)  
-
 [Стим](https://steamcommunity.com/id/Server_YouTube)  
+
+***
+###### <center> Да кто такой этот ваш серверок? </center> ######
