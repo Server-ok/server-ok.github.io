@@ -1,0 +1,29 @@
+﻿{
+	"name": "Undertale Math Edition",
+	"version": "1.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 800,
+	"viewport-height": 500,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "239",
+	"used-plugins": [
+		"Audio",
+		"Button",
+		"Mouse",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"TiledBg"
+	],
+	"used-behaviors": [
+		"Bullet",
+		"Physics",
+		"Rotate",
+		"solid",
+		"wrap"
+	]
+}
