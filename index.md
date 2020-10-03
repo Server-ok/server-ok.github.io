@@ -2,7 +2,7 @@
 
 ## Добро пожаловать на мою страницу, добрый люд!
 
-Страница принадлежит СерверКу (ServerOK) и была запущена на GitHub Pages. Спасибо им за это!
+Страница принадлежит СерверКу (ServerOK) и была запущена на GitHub Pages[.](https://server-ok.github.io/secret/) Спасибо им за это!
 ### Мои игры на данный момент.
 
 1. [Annoying Dog: RUN!](https://server-ok.github.io/AnnoyingDogRun/)  
@@ -24,4 +24,4 @@
 [Стим](https://steamcommunity.com/id/Server_YouTube)  
 
 ***
-###### <center> Да кто такой этот ваш серверок[?](https://server-ok.github.io/secret/) </center> ######
+###### <center> Да кто такой этот ваш серверок? </center> ######
