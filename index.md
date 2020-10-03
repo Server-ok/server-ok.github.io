@@ -6,7 +6,7 @@
 ### Мои игры на данный момент.
 ```markdown
 Annoying Dog: RUN!
-Undertale: Math Edition
+[Undertale: Math Edition](https://server-ok.github.io/UnderMath/)
 Теннис! 2D
 (Список будет дополняться)
 ```
