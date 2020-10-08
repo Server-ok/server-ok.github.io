@@ -2,7 +2,8 @@
 
 ## Добро пожаловать на мою страницу, добрый люд!
 
-<div align="left" >Страница принадлежит СерверКу (ServerOK) и была запущена на GitHub Pages. Спасибо им за это!</div>
+<div align="left" >Страница принадлежит СерверКу (ServerOK) и была запущена на GitHub Pages. Спасибо им за это!</div>  
+
 ### Мои игры на данный момент.
 
 1. [Annoying Dog: RUN](https://server-ok.github.io/AnnoyingDogRun/)[!](https://server-ok.github.io/secret/)  
