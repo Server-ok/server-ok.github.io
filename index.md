@@ -24,7 +24,7 @@
 [Стим](https://steamcommunity.com/id/Server_YouTube)  
 
 ### Дискорд
-[https://discord.com/invite/sU3Ffjk](ссылка-приглашение) на мой дискорд сервер.
+[инвайт-ссылка](https://discord.com/invite/sU3Ffjk) на мой дискорд сервер.
 
 ***
 ###### <center> Да кто такой этот ваш серверок? </center> ######
