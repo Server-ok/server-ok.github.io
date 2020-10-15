@@ -14,7 +14,7 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/68341726" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter --> 
 
-###### Тут был ServerOK
+<title>Дом серверка</title>
 
 ## Добро пожаловать на мою страницу, добрый люд!
 
