@@ -1,3 +1,4 @@
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -12,7 +13,7 @@
    });
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/68341726" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter --> 
+<!-- /Yandex.Metrika counter -->
 
 <title>Дом серверка</title>
 
@@ -48,3 +49,8 @@
 
 ***
 ###### <center> Да кто такой этот ваш серверок? </center> ######
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=68341726&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/68341726/3_1_868686FF_666666FF_1_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a>
+<!-- /Yandex.Metrika informer -->
