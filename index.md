@@ -15,8 +15,19 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/68341726" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-<title>Дом серверка</title>
-
+<head>
+   
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Дом серверка!</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="Дом серверка!">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://server-ok.github.io/">
+<meta property="og:url" content="https://server-ok.github.io/">
+<meta property="og:site_name" content="Дом серверка!">
+<script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="application/ld+json">
+{"url":"https://server-ok.github.io/","@type":"WebSite","headline":"server-ok.github.io","name":"server-ok.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag --></head>
 ## Добро пожаловать на мою страницу, добрый люд!
 
 Страница принадлежит СерверКу (ServerOK) и была запущена на GitHub Pages. Спасибо им за это!
