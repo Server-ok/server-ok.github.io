@@ -53,11 +53,7 @@
 [Стим](https://steamcommunity.com/id/Server_YouTube)  
 
 ### Дискорд
-[инвайт-ссылка](https://discord.com/invite/sU3Ffjk) на мой дискорд сервер.
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-147856dd-4944-497d-9ed2-16a6fe6da6f0"></div>
-
+[инвайт-ссылка](https://discord.com/invite/sU3Ffjk) на мой дискорд сервер.  
 ***
 ###### <center> Да кто такой этот ваш серверок? </center> ######
 <!-- Yandex.Metrika informer -->
