@@ -54,7 +54,9 @@
 
 ### Дискорд
 [инвайт-ссылка](https://discord.com/invite/sU3Ffjk) на мой дискорд сервер.  
+
 ***
+
 ###### <center> Да кто такой этот ваш серверок? </center> ######
 <!-- Yandex.Metrika informer -->
 <a href="https://metrika.yandex.ru/stat/?id=68341726&amp;from=informer"
