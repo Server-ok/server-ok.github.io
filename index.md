@@ -1,4 +1,10 @@
-<script data-ad-client="ca-pub-1380972911397946" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-ad-client="ca-pub-1380972911397946" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
+
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
+
+<script type="text/javascript">
+  VK.init({apiId: 7634401, onlyWidgets: true});
+</script>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -54,6 +60,12 @@
 
 ### Дискорд
 [инвайт-ссылка](https://discord.com/invite/sU3Ffjk) на мой дискорд сервер.  
+
+### Комментарии  
+<div id="vk_comments"></div>
+<script type="text/javascript">
+VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"});
+</script>
 
 ***
 
