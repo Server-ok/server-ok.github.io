@@ -1,3 +1,15 @@
-body {
-  font-family: sans-serif;
-}
+<html>
+ <head>
+ 	<title>Фоновое изображение с помощью CSS</title>
+   <style>
+	body {
+		background: #000 url(https://cdn.pixabay.com/photo/2015/11/08/09/00/rain-1033290_1280.jpg); /* Фоновый цвет и фоновый рисунок*/
+		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
+    font-family: sans-serif;
+	}
+   </style>
+ </head>
+ <body>
+	<p>Здесь фоновый рисунок устанавливается с помощью свойства background CSS (фон картинка CSS).</p>
+ </body>
+</html>
