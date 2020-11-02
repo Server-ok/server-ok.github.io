@@ -3,7 +3,7 @@
  	<title>Фоновое изображение с помощью CSS</title>
    <style>
 	body {
-		background: #000 url(https://cdn.pixabay.com/photo/2015/11/08/09/00/rain-1033290_1280.jpg); /* Фоновый цвет и фоновый рисунок*/
+		background: #000 url(image.png); /* Фоновый цвет и фоновый рисунок*/
 		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
 		background-size: 100%;
     font-family: sans-serif;
