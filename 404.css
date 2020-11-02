@@ -6,11 +6,8 @@
 		background: #000 url(image.png); /* Фоновый цвет и фоновый рисунок*/
 		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
 		background-size: 100%;
-    font-family: sans-serif;
+                font-family: sans-serif;
 	}
    </style>
  </head>
- <body>
-	<p>Здесь фоновый рисунок устанавливается с помощью свойства background CSS (фон картинка CSS).</p>
- </body>
 </html>
