@@ -21,6 +21,13 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/68341726" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
+
+<!-- VK Widget -->
+<div id="vk_community_messages"></div>
+<script type="text/javascript">
+VK.Widgets.CommunityMessages("vk_community_messages", 196938783, {expanded: "1",tooltipButtonText: "Хочешь предложить идею для видео?"});
+</script>
 <head>
    
 <!-- Begin Jekyll SEO tag v2.6.1 -->
@@ -33,6 +40,7 @@
 <meta property="og:site_name" content="Дом серверка!">
 <script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="application/ld+json">
 {"url":"https://server-ok.github.io/","@type":"WebSite","headline":"server-ok.github.io","name":"server-ok.github.io","@context":"https://schema.org"}</script>
+
 <!-- End Jekyll SEO tag --></head>
 ## Добро пожаловать на мою страницу, добрый люд!
 
