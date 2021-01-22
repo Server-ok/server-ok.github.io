@@ -62,7 +62,7 @@ VK.Widgets.CommunityMessages("vk_community_messages", 196938783, {expanded: "1",
 Пока что знаю только JS, CSS и Python (список будет дополняться)
 ### Контакты и ссылки
 
-[ВК](https://vk.com/serverok2008)  
+[ВК](https://vk.link/serverok_official)  
 [Ютуб](https://www.youtube.com/channel/UCAKbapy2TOjI9CgEI_5U9Pw)  
 [Стим](https://steamcommunity.com/id/Server_YouTube)  
 
