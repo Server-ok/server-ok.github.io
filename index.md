@@ -35,11 +35,11 @@ VK.Widgets.CommunityMessages("vk_community_messages", 196938783, {expanded: "1",
 <meta name="generator" content="Jekyll v3.9.0">
 <meta property="og:title" content="Дом серверка!">
 <meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://server-ok.github.io/">
+<link rel="canonical" href="Дом серверка!">
 <meta property="og:url" content="https://server-ok.github.io/">
 <meta property="og:site_name" content="Дом серверка!">
 <script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="application/ld+json">
-{"url":"https://server-ok.github.io/","@type":"WebSite","headline":"server-ok.github.io","name":"server-ok.github.io","@context":"https://schema.org"}</script>
+{"url":"https://server-ok.github.io/","@type":"WebSite","headline":"Дом серверка!","name":"Дом серверка!","@context":"https://schema.org"}</script>
 
 <!-- End Jekyll SEO tag --></head>
 ## Добро пожаловать на мою страницу, добрый люд!
