@@ -1,3 +1,7 @@
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 <script data-ad-client="ca-pub-1380972911397946" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
 
 <script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
