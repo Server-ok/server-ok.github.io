@@ -1,0 +1,9 @@
+[178[ [179[ [223[ [216[ |Breakfast| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !happy! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Я казуал!
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      а?
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Кто это?
+:bf: !laugh! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Я казуал
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Какие Казуал? Кто посмел потревожить пионера?
+:bf: !worried! [Arial[ ]21] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~       Я ну-у-уб?
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic_loud# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~     Казуальщина, ты поплатишься за это!
+:bf: !fear! [Arial[ ]21] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic_loud# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~       Казуал... (казуал)

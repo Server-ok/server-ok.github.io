@@ -1,0 +1,7 @@
+﻿[178[ [179[ [223[ [216[ |Torture| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Где гф?
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      чел.
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Сочувствую, но ты все просрал.
+:bf: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic_loud# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Почему ты такой плохой!?
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Завались, ответ на это тебе ничего не даст.
+:bf: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic_loud# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      (((((
