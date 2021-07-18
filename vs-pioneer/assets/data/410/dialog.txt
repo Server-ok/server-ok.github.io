@@ -1,0 +1,7 @@
+[178[ [179[ [223[ [216[ |torture| *100* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Ну что.
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Ты смог победить меня на этот раз.
+:bf: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic_loud# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Бип!
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~      Нет, в этот раз ты не победишь.
+:bf: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #classic_loud# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~       Би-и-ип!
+:dad: !default! [Arial[ ]42] *100* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF000000! ?#FFFFFFFF? .. ~~     Плохой выбор.
